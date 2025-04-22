@@ -1,7 +1,7 @@
 version: "3.1"
 services:
   web:
-    image: odoo:16.0
+    image: odoo:latest
     command: odoo --update all -d empresa_test --dev all
     depends_on:
       - db
