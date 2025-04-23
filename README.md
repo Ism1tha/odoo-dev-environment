@@ -1,4 +1,4 @@
-# 🚀 Odoo Dev Environment Boilerplate
+# 🚀 Odoo development starter template
 
 This is a Docker-based development environment for Odoo, designed to help you **kickstart your custom Odoo module development** with minimal setup. It includes PostgreSQL, volume persistence, secrets management, and mounts for custom configuration and addons.
 
